@@ -1,0 +1,165 @@
+html{
+    min-height: 100vh;
+}
+
+.body {
+    /* background-color: rgb(209, 209, 209); */
+    background-color: #008577;
+}
+
+.Head{
+    background-color: #00655b ;
+    color: whitesmoke;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 30px;
+}
+
+.Foot{
+    background-color:#00655b ;
+    color: whitesmoke;;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+nav>.nav>.nav-item>a{
+    color: black;
+    text-decoration: none;
+}
+
+nav>.nav>.nav-item :hover{
+    color: #0cd8c4;
+    text-decoration: none;
+}
+.dropdown-menu>a:hover{
+    background-color: #008577 ;
+}
+
+.d-head{
+    font-size: 15px;
+}
+
+.content-1{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: #00655b ;
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+}
+
+.CTitle{
+    color: white;
+    font-weight: lighter;
+    padding-left: 2%;
+}
+
+.card-group{
+    margin-right: 20%;
+    margin-left: 20%;
+    width: 60%;
+}
+
+.Contact{
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: rgb(212, 212, 212);
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-left: 2%;
+    border-radius: 0.25rem;
+    margin-bottom: 5%;
+}
+
+.Contact>h3{
+    font-weight: normal;
+}
+
+.cards{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+
+.CatCard{
+    margin-right: 20%;
+    margin-left: 20%;
+    width: 60%;
+    margin-bottom: 5%;
+}
+
+.PDetail{
+    color: white;
+    font-weight: lighter;
+    padding-left: 2%;
+}
+
+.PubCard{
+    margin-bottom: 10%;
+}
+
+.BookDetImg{
+    width: 70%;
+    height:80%;
+    margin-top:3%;
+    margin-left: 10%;
+    display: block;
+    margin-right: auto;
+    padding-top: 5%;
+}
+
+.Booktitle{
+    margin-top: 5%;
+}
+
+.BookDetail{
+    border-top: 1px solid black;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    padding-top: 2%;
+    margin-right: 5%;
+}
+
+.BookDetails{
+    border-top: 1px solid black;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    padding-top: 2%;
+    margin-right: 5%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid black;
+}
+
+#page{
+    padding-left: 4%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: #008577;
+}
+
+.maps {
+    margin-top: 3%;
+    width:100%;
+    height:85%;
+
+}
+
+.container{
+    margin-top: 2%;
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    margin-bottom: 15%;
+}
+
+#det{
+    padding-bottom: 2%;
+}
+
+.pagination a {
+    transition: background-color .3s;
+
+}
+
