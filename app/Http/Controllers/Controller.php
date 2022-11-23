@@ -11,3 +11,5 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 }
+// {{-- Bryan Theophilllus -2401953966
+//     Kelas LL01 --}}

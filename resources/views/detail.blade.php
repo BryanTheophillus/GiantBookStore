@@ -3,6 +3,7 @@
 @section('title', 'Detail')
 
 @section('content')
+
 <div>
     <div class="container">
         <div class="row">
@@ -37,3 +38,5 @@
 </div>
 
 @endsection
+{{-- Bryan Theophilllus -2401953966
+Kelas LL01 --}}

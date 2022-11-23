@@ -1,10 +1,31 @@
+/* Bryan Theophilllus -2401953966
+    Kelas LL01  */
 html{
     min-height: 100vh;
 }
 
 .body {
-    /* background-color: rgb(209, 209, 209); */
     background-color: #008577;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #008577 #00655b;
+}
+
+
+*::-webkit-scrollbar {
+    width: 15px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #00655b;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #008577;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
 }
 
 .Head{
@@ -20,11 +41,10 @@ html{
     color: whitesmoke;;
     padding-top: 5px;
     padding-bottom: 5px;
-
 }
 
 nav>.nav>.nav-item>a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
@@ -160,6 +180,18 @@ nav>.nav>.nav-item :hover{
 
 .pagination a {
     transition: background-color .3s;
-
 }
 
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.card{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+    border-radius: 10%;
+}

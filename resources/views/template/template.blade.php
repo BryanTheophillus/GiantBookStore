@@ -1,3 +1,6 @@
+{{-- Bryan Theophilllus -2401953966
+Kelas LL01 --}}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,7 +44,7 @@
 
     <footer>
         <div class="Foot d-flex justify-content-center align-items-center fixed-bottom" >
-            <span>&copy; Giant Book Supplier 2022</span>
+            <span>&copy; Giant Book Supplier 2022 <br> Bryan Theophillus - 2410953966</span>
         </div>
     </footer>
 </body>

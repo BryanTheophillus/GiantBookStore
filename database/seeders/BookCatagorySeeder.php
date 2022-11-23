@@ -1,7 +1,8 @@
 <?php
 
 namespace Database\Seeders;
-
+// {{-- Bryan Theophilllus -2401953966
+//     Kelas LL01 --}}
 use Illuminate\Database\Seeder;
 use App\Models\BookCatagory;
 class BookCatagorySeeder extends Seeder

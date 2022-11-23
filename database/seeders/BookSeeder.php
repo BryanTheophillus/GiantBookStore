@@ -1,5 +1,6 @@
 <?php
-
+// {{-- Bryan Theophilllus -2401953966
+//     Kelas LL01 --}}
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;

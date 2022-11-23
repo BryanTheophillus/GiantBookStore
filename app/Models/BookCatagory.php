@@ -17,3 +17,5 @@ class BookCatagory extends Model
         return $this->belongsTo(Catagory::class);
     }
 }
+// {{-- Bryan Theophilllus -2401953966
+//     Kelas LL01 --}}

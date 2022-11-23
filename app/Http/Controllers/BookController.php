@@ -28,3 +28,5 @@ class BookController extends Controller
         return view('contact', compact('categories'));
     }
 }
+// {{-- Bryan Theophilllus -2401953966
+//     Kelas LL01 --}}

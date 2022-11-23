@@ -1,3 +1,5 @@
+{{-- Bryan Theophilllus -2401953966
+Kelas LL01 --}}
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
